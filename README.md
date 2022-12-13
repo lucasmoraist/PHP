@@ -1,7 +1,5 @@
 # PHP
 
-# PHP
-
 ## Comandos de saída do PHP:
 
 Os comandos ECHO, PRINT e PRINTF servem para gerar saídas na tela. Um exemplo simples desse comando é:
